@@ -5,7 +5,7 @@ author: Netherfoam
 
 description: Economy Shops plugin
 website: http://maxgamer.org
-softdepend: [Herochat, Vault, Spout]
+softdepend: [Herochat, Vault, Spout, iConomy]
 
 commands:
     qs:
